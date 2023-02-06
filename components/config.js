@@ -1,7 +1,7 @@
-export const pinatakey = '84397e824840cc03d6d9';
-export const pinatasecret = '63c9718221c99c67ff0f270a86dd58879eff57ccef80a242c303e886e97b6e2e';
-export const pinatajwt = 'eJw9TsHn5o5sY8nqv-d0dL6HIjWi1m189nIcdxhdcwwdUe6WMoahOvWdOSxSSRsQ';
-export const ipfsgateway = 'turquoise-real-toad-495'
+export const pinatakey = 'ENTER_PINATA_API_KEY';
+export const pinatasecret = 'ENTER_PINATA_API_SECRET';
+export const pinatajwt = 'ENTER_PINATA_GATEWAY_JWT_KEY';
+export const ipfsgateway = 'ENTER_PINATA_GATEWAY_DOMAIN' // Do NOT ADD .mypinata.cloud... just your gateway name.
 
 export const readHeader = {
     "Content-Type": "application/json",
