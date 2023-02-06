@@ -1,7 +1,8 @@
 # Web3-Pinata-IPFS-Real-Estate-App
 ⚡ Build a Powerful Real Estate Listing App and use IPFS as a Database and store all listing data with Pinata!
 
-<img src="https://github.com/net2devcrypto/misc/blob/main/realestatelisting1.png" width="800" height="600">
+<img src="https://github.com/net2devcrypto/misc/blob/main/realestatelisting1.png" width="600" height="400">
+<img src="https://github.com/net2devcrypto/misc/blob/main/realestatelisting2.png" width="600" height="400">
 
 <h2>Web3 Real Estate Listing App with Pinata - IPFS</h2>
 
