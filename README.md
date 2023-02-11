@@ -16,7 +16,7 @@
 
 Click for video:
 
-<a href="https://youtu.be/J6GJVxyq4_Y" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
+<a href="https://www.youtube.com/watch?v=f_2UJGT3A3k&list=PLLkrq2VBYc1aToY9TIBEGdKGrnBldhid3" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
 
 <h3>Steps to use this Repo</h3>
